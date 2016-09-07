@@ -1,6 +1,4 @@
-# JDS_Classifiction
-
-For A give Job discription, task is to predict the function for given JDS
+requirement
 
  * python3
  * num2words
@@ -33,4 +31,7 @@ python3 rf_word2vec.py
 it will take some time
  
 output as a function
+
+
+
 
